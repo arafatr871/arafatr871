@@ -5,17 +5,19 @@
 </b> </h1>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/arafatr871/count.svg" />
 </p>
 
+<hr>
+<h1>#`Some Stats`</h1>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=arafatr871&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=neon" />
 
-# `Some Stats`
+
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=arafatr871&theme=monokai&hide_border=false&include_all_commits=true&border_radius=23"
