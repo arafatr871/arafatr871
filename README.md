@@ -29,6 +29,19 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatr871&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatr871&theme=monokai&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatr871&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatr871&theme=gruvbox_light&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50" />
+</picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatr871&theme=monokai&show_icons=true&hide_border=false&layout=donut&border_radius=23&langs_count=50"
