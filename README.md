@@ -11,9 +11,12 @@
   <img src="https://profile-counter.glitch.me/arafatr871/count.svg" />
 </p>
 <hr>
+<div align="center">
+ 
+ # `My Stats`
 
-# `My Stats`
-
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatr871&theme=dark&hide_border=false&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=arafatr871&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatr871&theme=dark&hide_border=false&include_all_commits=true" /> \
+<img src="https://github-readme-stats.vercel.app/api?username=arafatr871&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> \
 <img src="https://github-readme-stats.vercel.app/api/top-langs//?username=arafatr871&theme=dark&show_icons=true&hide_border=false&layout=donut&langs_count=50"/>
+
+</div>
