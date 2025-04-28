@@ -13,7 +13,7 @@
 <hr>
 <div align="center">
  
- # `My Stats`
+ # My Stats
 
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arafatr871&theme=algolia&hide_border=false&include_all_commits=true" /> \
 <img src="https://github-readme-stats.vercel.app/api?username=arafatr871&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" /> \
