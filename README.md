@@ -1,9 +1,10 @@
-<h1 align=center>
+<h1 align="center">
  <b>
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=550&size=30&duration=1500&pause=500&color=09DFB4&width=485&lines=Hello%2C+I'm+Arafat+Rahman;Programmer;Tech+enthusiast" alt="Programmer"/>
+ <a href="https://git.io/typing-svg" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=550&size=30&duration=1500&pause=500&color=00FF00&width=485&lines=Hello%2C+I'm+Arafat+Rahman;Programmer;Tech+enthusiast" alt="Programmer"/>
 </a>
-</b> </h1>
+</b> 
+</h1>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <hr>
